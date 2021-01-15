@@ -13,7 +13,6 @@ function App() {
             &#x1F4B2; Expense Tracker{" "}
           </span>
         </a>
-        <p>App List</p>
         <a className="btn" href="http://applist02.surge.sh/">
           <span role="img" aria-label="Man with mask">
           &#128567; Covid-19 Tracker{" "}
